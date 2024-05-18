@@ -1,5 +1,5 @@
 [![MasterHead](https://images4.alphacoders.com/130/1307940.png)](https://github.com/drstrange102)
-<h1 align="center">Hi 👋, I'm Dr Strange</h1>
+<h1 align="center">Hi 👋, I'm Kaleemullah Younas</h1>
 <h3 align="center">A passionate junior Data Science developer.</h3>
 <img align="right" width="400" alt="Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
