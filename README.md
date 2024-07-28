@@ -31,9 +31,9 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kaleemullahyounas"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="https://www.buymeacoffee.com/kaleemullahyounas" /></a></p>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=drstrange102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="kaleemullahyounas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drstrange102&theme=dark&hide_border=false" alt="kaleemullahyounas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drstrange102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kaleemullahyounas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kaleemullahyounas&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="kaleemullahyounas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemullahyounas&theme=dark&hide_border=false" alt="kaleemullahyounas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleemullahyounas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kaleemullahyounas" /></p>
 
 ### 🔝Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kaleemullahyounas&limit=5&theme=dark&combine_all_yearly_contributions=true)
