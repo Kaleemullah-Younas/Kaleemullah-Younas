@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)
-<h1 align="center">Assalam-o-Alaikum, It's DR 👋 </h1>
-<h3 align="center">A passionate Data Science Developer </h3>
+<h1 align="center">A.o.A, It's DR 👋 </h1>
+<h3 align="center">Junior Data Science Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Dr-Strange-01&icon=3&color=1)](https://visitcount.itsvg.in)
 
@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Strange-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Dr-Strange_01" /></p>
 
 ### 🔝Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dr-Strange_01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dr-Strange-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
