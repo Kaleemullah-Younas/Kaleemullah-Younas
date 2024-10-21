@@ -1,5 +1,5 @@
 [![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)
-<h1 align="center">A.o.A, It's DR 👋 </h1>
+<h1 align="center">A.o.A, It's KY 👋 </h1>
 <h3 align="center">Junior Data Science Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Dr-Strange-01&icon=3&color=1)](https://visitcount.itsvg.in)
@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate **to enhance my learning.**
 
-- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Dr-Strange-01) **&** [**Portfolio**](htpps://www.com)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Dr-Strange-01) **&** [**Portfolio**](https://www.datascienceportfol.io/kaleemullahyouus123)
 
-- 📫 How to reach me: [**EMAIL**](drstrange102420@gmail.com)
+- 📫 How to reach me: [**EMAIL**](kaleemullahyouus123@gmail.com)
 
 - ♾️ Connect with me: [**Kaggle**](https://www.com)
 
