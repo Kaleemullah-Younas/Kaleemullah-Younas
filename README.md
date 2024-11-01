@@ -30,12 +30,12 @@
 
 # 📊 GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dr-Strange-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dr-Strange_01" width="300"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dr-Strange-01&theme=dark&hide_border=false" alt="Dr-Strange_01" width="300"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Strange-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Dr-Strange_01" width="300"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kaleemullah-Younas" width="300"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleemullah-Younas&theme=dark&hide_border=false" alt="Kaleemullah-Younas" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleemullah-Younas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Kaleemullah-Younas" width="300"/>
 </p>
 
 ### 🔝Top Contributed Repo:
 <p>
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Dr-Strange-01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Dr-Strange_01" width="350"/>
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kaleemullah-Younas&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Kaleemullah-Younas" width="350"/>
 </p>
