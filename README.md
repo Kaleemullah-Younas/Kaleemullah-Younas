@@ -29,11 +29,13 @@
 
 
 # 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kaleemullah-Younas" width="300"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleemullah-Younas&theme=dark&hide_border=false" alt="Kaleemullah-Younas" width="300"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleemullah-Younas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Kaleemullah-Younas" width="300"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&bg_color=&hide_border=false&include_all_commits=true&count_private=true&order=1" alt="stats graph" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kaleemullah-Younas&locale=en&mode=daily&theme=react-dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaleemullah-Younas&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ### 🔝Top Contributed Repo:
 <p>
