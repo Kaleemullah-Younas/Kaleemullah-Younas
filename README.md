@@ -6,7 +6,7 @@
 
 # 💁‍♂️ About Me:
 
-<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Machine learning & Artificial Integillence.**
 
@@ -31,13 +31,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&bg_color=&hide_border=false&include_all_commits=true&count_private=true&order=1" alt="stats graph" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kaleemullah-Younas&locale=en&mode=daily&theme=react-dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaleemullah-Younas&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&include_all_commits=true&count_private=true&order=1" alt="stats graph" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaleemullah-Younas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kaleemullah-Younas&locale=en&mode=daily&theme=carbonfox&background=0d1117&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaleemullah-Younas&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-### 🔝Top Contributed Repo:
-<p>
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kaleemullah-Younas&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Kaleemullah-Younas" width="350"/>
-</p>
