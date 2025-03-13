@@ -1,8 +1,8 @@
 <!--[![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)-->
 <!--<h1 align="center">A.o.A, It's KY 👋 </h1>-->
-<h3 align="center">Junior Data/AI/ML Developer</h3>
+<h1 align="center">Junior Data/AI/ML Developer</h1>
 
-[![](https://visitcount.itsvg.in/api?id=Dr-Strange-01&icon=3&color=1)](https://visitcount.itsvg.in)
+[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
 
 # About Me:
 <!--<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
