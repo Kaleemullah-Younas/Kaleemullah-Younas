@@ -2,7 +2,8 @@
 <!--<h1 align="center">A.o.A, It's KY 👋 </h1>-->
 <h1 align="center">Junior Data/AI/ML Developer</h1>
 
-[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
+<!--[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
+<a href="https://u8views.com/github/Kaleemullah-Younas"><img src="https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg"></a>-->
 
 # About Me:
 <!--<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
