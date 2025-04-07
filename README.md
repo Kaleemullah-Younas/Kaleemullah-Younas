@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate **to enhance my learning**
 
-- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Kaleemullah-Younas) **&** [**Portfolio**](https://kaleemullahyounas.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Kaleemullah-Younas?tab=repositories) **&** [**Portfolio**](https://kaleemullahyounas.netlify.app/)
 
 - 📫 How to reach me: [**EMAIL**](kaleemullahyouus123@gmail.com)
   
