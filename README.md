@@ -7,9 +7,9 @@
 
 # About Me:
 <!--<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Agentic GenAI**
 
-- 🌱 I’m currently learning **Statistical Techniques, Stochastic Techniques, Rule-Based Techniques and Hybrid Techniques**
+- 🌱 I’m currently learning **Agentic Frameworks, Multimodal AI, LLM's, RAG etc**
 
 - 👯 I’m looking to collaborate **to enhance my learning**
 
