@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)-->
 <!--<h1 align="center">A.o.A, It's KY 👋 </h1>-->
-<h1 align="center">Full-Stack AI Engineer / AI Generalist</h1>
+<h1 align="center">Machine Learning/ Deep Learning/ GenAI Engineer</h1>
 
 <!--[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
 <a href="https://u8views.com/github/Kaleemullah-Younas"><img src="https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg"></a>-->
