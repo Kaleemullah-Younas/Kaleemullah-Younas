@@ -1,12 +1,12 @@
 <!--[![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)-->
 <!--<h1 align="center">A.o.A, It's KY 👋 </h1>-->
 <!--<h1 align="center">Machine Learning/ Deep Learning/ GenAI Engineer</h1>-->
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=50&pause=1000&color=3CA2C4&center=true&width=600&height=80&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;Generative+AI+Engineer" alt="Typing SVG" /></a></h1>
+<h4 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=3CA2C4&center=true&width=600&height=80&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;Generative+AI+Engineer" alt="Typing SVG" /></a></h4>
 
 <!--[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
 <a href="https://u8views.com/github/Kaleemullah-Younas"><img src="https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg"></a>-->
 
-# About Me:
+# **About Me**:
 <!--<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
 - 🔭 I’m currently working on **Agentic GenAI**
 
