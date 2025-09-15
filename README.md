@@ -70,7 +70,7 @@
 
 # GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&show_icons=true&locale=en&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="120" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&show_icons=true&locale=en&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="120" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaleemullah-Younas&locale=en&layout=compact&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true" height="120" alt="languages graph" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaleemullah-Younas&theme=carbonfox&background=0d1117&hide_border=true&border_radius=5&order=3" height="120" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaleemullah-Younas&radius=16&theme=react-dark&area=true&hide_border=true&order=5&cache_seconds=1800" height="300" alt="activity-graph graph"  />
