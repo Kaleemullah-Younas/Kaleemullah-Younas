@@ -69,7 +69,6 @@
 </p>
 
 # GitHub Stats:
-# GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&show_icons=true&locale=en&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&include_all_commits=true&count_private=true" height="120" alt="stats graph" />
   
