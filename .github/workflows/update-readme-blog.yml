@@ -1,0 +1,16 @@
+name: Update README with latest Medium posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # every Monday at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@kaleemullahyounas123"
+          max_post_count: 5
