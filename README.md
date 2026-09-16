@@ -151,7 +151,7 @@ I've built 40+ projects over the past three years, worked with clients across he
 ### Achievements
 
 <div>
-<sub>
+<small>
 🥇 1st - 2 international AI hackathons on Devpost (1,800+ & 850+ teams)<br>
 🥇 1st - TechVerse'26, UMT (Agentic AI healthcare, 25+ teams)<br>
 🥇 1st - TechVerse'25, UMT (Generative AI, 20+ teams)<br>
@@ -159,12 +159,12 @@ I've built 40+ projects over the past three years, worked with clients across he
 🏅 Top 5 - NaSCon'25, FAST Islamabad (Agentic AI & MCP, 100+ teams)<br>
 🎓 3.87/4.0 GPA · 8× Dean's Award (2022–2026)<br>
 📜 IBM RAG & Agentic AI · AI Engineer for Data Scientists
-</sub>
+</small>
 </div>
 
 ---
 
-<sub>Latest posts from <a href="https://medium.com/@kaleemullahyounas123">Medium</a>, auto-updated daily via GitHub Actions:</sub>
+<small>Latest posts from <a href="https://medium.com/@kaleemullahyounas123">Medium</a>, auto-updated daily via GitHub Actions:</small>
 
 ![RSS feed](metrics.plugin.rss.svg)
 
