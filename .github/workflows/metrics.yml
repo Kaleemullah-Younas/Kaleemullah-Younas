@@ -1,0 +1,84 @@
+# ─── lowlighter/metrics ───────────────────────────────────────────────────────
+# Generates metrics SVGs daily and commits them to this repo.
+# Each step produces one SVG file; add it to README.md with:
+#   ![label](metrics.plugin.<name>.svg)
+#
+# SETUP — one-time:
+# 1. Go to github.com/settings/tokens → Generate classic token
+#    Scopes needed: read:user  (public_repo is enough for a public profile repo)
+# 2. Add the token to your repo: Settings → Secrets → Actions → New secret
+#    Name: METRICS_TOKEN    Value: <your token>
+# 3. Commit this file to .github/workflows/metrics.yml  — done.
+#
+# After the first run you'll see the SVGs committed to your repo root.
+# ──────────────────────────────────────────────────────────────────────────────
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC daily (07:00 PKT)
+  workflow_dispatch:        # run manually from the Actions tab any time
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to commit SVGs back to the repo
+
+    steps:
+
+      # ── 1. RSS feed from Medium ─────────────────────────────────────────────
+      # Produces: metrics.plugin.rss.svg
+      # In README.md: ![Writing](metrics.plugin.rss.svg)
+      - name: RSS feed (Medium posts)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED          # RSS plugin needs no GitHub token
+          base: ""                   # skip default sections (calendar, etc.)
+          plugin_rss: yes
+          plugin_rss_source: https://medium.com/feed/@kaleemullahyounas123
+          plugin_rss_limit: 5       # show 5 latest posts
+
+      # ── 2. Isometric contribution calendar (full year) ────────────────────
+      # Produces: metrics.plugin.isocalendar.svg
+      # Optional — add to README.md if you want the visual calendar:
+      #   ![Isometric calendar](metrics.plugin.isocalendar.svg)
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # ── 3. GitHub Topics you follow ──────────────────────────────────────
+      # Produces: metrics.plugin.topics.svg
+      # Optional — shows your starred GitHub topics as icons:
+      #   ![Topics](metrics.plugin.topics.svg)
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_topics_mode: icons  # "icons" or "labels"
+
+      # ── 4. Achievements ───────────────────────────────────────────────────
+      # Produces: metrics.plugin.achievements.svg
+      # Optional — GitHub achievement badges:
+      #   ![Achievements](metrics.plugin.achievements.svg)
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer,
+            contributor, explorer, infosec, automator, octonaut
