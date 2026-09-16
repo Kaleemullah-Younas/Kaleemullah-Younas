@@ -1,83 +1,204 @@
-<!--[![MasterHead](https://wallpapers.com/images/hd/think-about-coding-qlib86o7bz1fqbub.jpg)](https://github.com/Dr-Strange-01)-->
-<!--<h1 align="center">A.o.A, It's KY 👋 </h1>-->
-<!--<h1 align="center">Machine Learning/ Deep Learning/ GenAI Engineer</h1>-->
-<h4 align="center"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=3CA2C4&center=true&width=600&height=80&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;Generative+AI+Engineer" alt="Typing SVG" /></a></h4>
-
-<!--[![ѕтяαηgєr profile views](https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg)](https://u8views.com/github/Kaleemullah-Younas)
-<a href="https://u8views.com/github/Kaleemullah-Younas"><img src="https://u8views.com/api/v1/github/profiles/125406268/views/day-week-month-total-count.svg"></a>-->
-
-# **About Me**:
-<!--<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dpcfnaqf4og6cb4pkuc8tdv5r3alx4syfer7iu2b&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
-- 🔭 I’m currently working on **Agentic GenAI**
-
-- 🌱 I’m currently learning **Agentic Frameworks, Multimodal AI, LLM's, RAG etc**
-
-- 👯 I’m looking to collaborate **to enhance my learning**
-
-- 👨‍💻 All of my projects are available at [**GITHUB**](https://github.com/Kaleemullah-Younas?tab=repositories) **&** [**PORTFOLIO**](https://kaleemullahyounas.netlify.app/)  
-
-- 📫 How to reach me: [**EMAIL**](mailto:kaleemullahyouus123@gmail.com) & [**LINKEDIN**](https://www.linkedin.com/in/kaleemullah-y-404300261/)
-
-  
-- ⚡ Fun fact **I am a passionate coder with developed skill**
-
-
-# Skill Set:
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://kubernetes.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" /></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" /></a>
-  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-</p>
-
-# GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaleemullah-Younas&show_icons=true&locale=en&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true&include_all_commits=true&count_private=true" height="120" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaleemullah-Younas&locale=en&layout=compact&bg_color=0d1117&text_color=5bcdec&title_color=45bee5&hide_border=true" height="120" alt="languages graph" />
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kaleemullah-Younas&theme=carbonfox&background=0d1117&hide_border=true&border_radius=5&order=3" height="120" alt="GitHub Streak" />
-  </a>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaleemullah-Younas&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="public/mascots/me-mixed-v3.webp" width="180" alt="Kaleemullah Younas" />
 </div>
 
+### Who I Am
+
+<div>
+<p><small>
+I'm an AI engineer and full-stack developer who enjoys building things from scratch and figuring out how to make them actually work in the real world. I studied Artificial Intelligence (Data Science) at UMT, and my work usually sits somewhere between AI and product engineering, whether that's RAG, agents, computer vision, or a full-stack application around a model.
+</small></p>
+
+<p><small>
+I've built 40+ projects over the past three years, worked with clients across healthcare, legal, and education, and somehow ended up with a few research papers along the way. I also really enjoy hackathons, with two 1st-place Devpost wins so far against 1,800+ and 850+ teams.
+</small></p>
+</div>
+
+### These Days
+
+<div>
+<small>
+- Solving real-world problems for clients across healthcare, fintech, edtech, legal, and other domains, using AI where it actually makes sense. <br>
+- Exploring multimodal models, agentic AI, RAG, and new approaches to building reliable AI systems. <br>
+- Currently building <b>JitterStack</b> and working on AI products, systems, and use cases from idea to production. <br>
+- Still reading <i><b>Attention Is All You Need</b></i>. Nine years (less than a decade) later, apparently attention is still all I need... plus GPUs, datasets, and a questionable amount of coffee. <br>
+</small>
+</div>
+
+### Tech Stack
+
+<p align="center"><small>What actually shows up in my repos, grouped roughly by what it's for.</small></p>
+
+<table width="100%" align="center" style="border: none;">
+<tr style="border: none;">
+
+<td valign="top" width="50%" align="center" style="border: none;">
+
+<b>Languages</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/python.svg" width="40" alt="Python"></a>
+<a href="#stack"><img src="/public/skills-icon/javascript.svg" width="40" alt="JavaScript"></a>
+<a href="#stack"><img src="/public/skills-icon/typescript.svg" width="40" alt="TypeScript"></a>
+<a href="#stack"><img src="/public/skills-icon/html.svg" width="40" alt="HTML"></a>
+<a href="#stack"><img src="/public/skills-icon/css.svg" width="40" alt="CSS"></a>
+<a href="#stack"><img src="/public/skills-icon/php.svg" width="40" alt="PHP"></a>
+</div>
+
+<b>ML / DL / CV</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/pytorch.svg" width="40" alt="PyTorch"></a>
+<a href="#stack"><img src="/public/skills-icon/tensorflow.svg" width="40" alt="TensorFlow"></a>
+<a href="#stack"><img src="/public/skills-icon/scikitlearn.svg" width="40" alt="Scikit-learn"></a>
+<a href="#stack"><img src="/public/skills-icon/opencv.svg" width="40" alt="OpenCV"></a>
+<a href="#stack"><img src="/public/skills-icon/anaconda.svg" width="40" alt="Anaconda"></a>
+<a href="#stack"><img src="/public/skills-icon/matlab.svg" width="40" alt="MATLAB"></a>
+</div>
+
+<b>GenAI & Agents</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/openai.svg" width="40" alt="OpenAI"></a>
+<a href="#stack"><img src="/public/skills-icon/langchain.svg" width="40" alt="LangChain"></a>
+<a href="#stack"><img src="/public/skills-icon/langgraph.svg" width="40" alt="LangGraph"></a>
+<a href="#stack"><img src="/public/skills-icon/crewai.svg" width="40" alt="CrewAI"></a>
+<a href="#stack"><img src="/public/skills-icon/faiss.svg" width="40" alt="FAISS"></a>
+<a href="#stack"><img src="/public/skills-icon/chromadb.svg" width="40" alt="ChromaDB"></a>
+</div>
+
+<b>Data & Analytics</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/pandas.svg" width="40" alt="Pandas"></a>
+<a href="#stack"><img src="/public/skills-icon/numpy.svg" width="40" alt="NumPy"></a>
+<a href="#stack"><img src="/public/skills-icon/matplotlib.svg" width="40" alt="Matplotlib"></a>
+<a href="#stack"><img src="/public/skills-icon/postgres.svg" width="40" alt="PostgreSQL"></a>
+<a href="#stack"><img src="/public/skills-icon/mysql.svg" width="40" alt="MySQL"></a>
+<a href="#stack"><img src="/public/skills-icon/mongodb.svg" width="40" alt="MongoDB"></a>
+</div>
+
+</td>
+
+<td valign="top" width="50%" align="center" style="border: none;">
+
+<b>Backend</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/fastapi.svg" width="40" alt="FastAPI"></a>
+<a href="#stack"><img src="/public/skills-icon/flask.svg" width="40" alt="Flask"></a>
+<a href="#stack"><img src="/public/skills-icon/django.svg" width="40" alt="Django"></a>
+<a href="#stack"><img src="/public/skills-icon/nodejs.svg" width="40" alt="Node.js"></a>
+<a href="#stack"><img src="/public/skills-icon/express.svg" width="40" alt="Express"></a>
+<a href="#stack"><img src="/public/skills-icon/graphql.svg" width="40" alt="GraphQL"></a>
+</div>
+
+<b>Frontend</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/react.svg" width="40" alt="React"></a>
+<a href="#stack"><img src="/public/skills-icon/nextjs.svg" width="40" alt="Next.js"></a>
+<a href="#stack"><img src="/public/skills-icon/tailwind.svg" width="40" alt="Tailwind"></a>
+<a href="#stack"><img src="/public/skills-icon/threejs.svg" width="40" alt="Three.js"></a>
+<a href="#stack"><img src="/public/skills-icon/vite.svg" width="40" alt="Vite"></a>
+<a href="#stack"><img src="/public/skills-icon/redux.svg" width="40" alt="Redux"></a>
+</div>
+
+<b>Data & Databases</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/postgres.svg" width="40" alt="PostgreSQL"></a>
+<a href="#stack"><img src="/public/skills-icon/mysql.svg" width="40" alt="MySQL"></a>
+<a href="#stack"><img src="/public/skills-icon/mongodb.svg" width="40" alt="MongoDB"></a>
+<a href="#stack"><img src="/public/skills-icon/prisma.svg" width="40" alt="Prisma"></a>
+<a href="#stack"><img src="/public/skills-icon/redis.svg" width="40" alt="Redis"></a>
+<a href="#stack"><img src="/public/skills-icon/supabase.svg" width="40" alt="Supabase"></a>
+</div>
+
+<b>DevOps & Cloud</b>
+
+<div align="center">
+<a href="#stack"><img src="/public/skills-icon/docker.svg" width="40" alt="Docker"></a>
+<a href="#stack"><img src="/public/skills-icon/aws.svg" width="40" alt="AWS"></a>
+<a href="#stack"><img src="/public/skills-icon/gcp.svg" width="40" alt="GCP"></a>
+<a href="#stack"><img src="/public/skills-icon/git.svg" width="40" alt="Git"></a>
+<a href="#stack"><img src="/public/skills-icon/githubactions.svg" width="40" alt="GitHub Actions"></a>
+<a href="#stack"><img src="/public/skills-icon/linux.svg" width="40" alt="Linux"></a>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+### Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **TrustECG** | <sub>Attention-based residual CNN that classifies 5 cardiac conditions from 12-lead ECGs (PTB-XL), achieving 91%+ AUROC with lead-level explanations.</sub> | <sub>PyTorch, Attention-CNN, Streamlit</sub> | [GitHub](https://github.com/Kaleemullah-Younas/TrustECG) |
+| **Sehat Guftagu** | <sub>Bilingual Urdu/English clinical interview and triage system with voice/text interviews, SOAP reports, and emergency flagging.</sub> | <sub>Next.js, LangGraph, Groq, Pinecone RAG, ElevenLabs</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Sehat_Guftagu-Interview_version) |
+| **LegalEdge AI** | <sub>Multi-agent system with four specialized agents for contract and compliance review, reducing review time by roughly 70%.</sub> | <sub>Python, Streamlit, Gemini 2.0, ChromaDB</sub> | Confidential |
+| **CHAPAL** | <sub>LLM safety layer combining deterministic prompt-injection/PII protection with semantic hallucination detection and human review.</sub> | <sub>Next.js, TypeScript, Prisma, Groq, Gemini</sub> | [GitHub](https://github.com/Kaleemullah-Younas/CHAPAL) |
+| **Querywise** | <sub>Multi-agent RAG using hybrid BM25 + embedding retrieval with answer verification before returning results.</sub> | <sub>LangChain, LangGraph, ChromaDB, Docling</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Querywise) |
+| **Mail Detective Agent** | <sub>Three-agent system that analyzes student inboxes and ranks scholarships and internships against their academic profile.</sub> | <sub>Next.js, tRPC, MongoDB, Prisma, GLM</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Mail-Detective-Agent) |
+| **Real-Time Twitter Sentiment Analysis** | <sub>Real-time tweet classification pipeline using Kafka and PySpark MLlib with MongoDB storage and a live dashboard.</sub> | <sub>Kafka, PySpark, MongoDB, Django, Docker</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Real-time-twitter-Sentiment-Analysis) |
+| **IDS-WSN** | <sub>ML-based intrusion detection for Blackhole, Grayhole, and Flooding attacks in wireless sensor networks, optimized for edge devices.</sub> | <sub>Scikit-learn, SMOTE</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Intrusion-Detection-System) |
+
+<p align="center">
+  <sub><a href="https://github.com/Kaleemullah-Younas?tab=repositories">More on my GitHub</a></sub>
+</p>
+
+### Achievements
+
+<div>
+<sub>
+🥇 1st - 2 international AI hackathons on Devpost (1,800+ & 850+ teams)<br>
+🥇 1st - TechVerse'26, UMT (Agentic AI healthcare, 25+ teams)<br>
+🥇 1st - TechVerse'25, UMT (Generative AI, 20+ teams)<br>
+🥈 2nd - Softec'25 Kaggle, FAST (40+ teams)<br>
+🏅 Top 5 - NaSCon'25, FAST Islamabad (Agentic AI & MCP, 100+ teams)<br>
+🎓 3.87/4.0 GPA · 8× Dean's Award (2022–2026)<br>
+📜 IBM RAG & Agentic AI · AI Engineer for Data Scientists
+</sub>
+</div>
+
+---
+
+<sub>Latest posts from <a href="https://medium.com/@kaleemullahyounas123">Medium</a>, auto-updated daily via GitHub Actions:</sub>
+
+![RSS feed](metrics.plugin.rss.svg)
+
+<div align="center">
+
+### Get in Touch
+
+<a href="https://www.linkedin.com/in/kaleemullah-y-404300261/"><img src="public/icons/linkedin3.svg" height="25" alt="LinkedIn"></a>
+<a href="mailto:kaleemullahyouus123@gmail.com"><img src="public/icons/gmail3.svg" height="25" alt="Email"></a>
+<a href="https://kaleemullahyounas.netlify.app/"><img src="public/icons/portfolio-site3.svg" height="25" alt="Portfolio"></a>
+<a href="https://github.com/sponsors/KaleemullahYounas"><img src="public/icons/github-sponsors3.svg" height="25" alt="GitHub Sponsors"></a>
+<a href="https://leetcode.com/stranger420/"><img src="public/icons/leetcode3.svg" height="25" alt="LeetCode"></a>
+<a href="https://medium.com/@kaleemullahyounas123"><img src="public/icons/medium3.svg" height="25" alt="Medium"></a>
+<a href="https://devpost.com/kaleem001"><img src="public/icons/devpost3.svg" height="25" alt="Devpost"></a>
+<a href="https://orcid.org/0009-0003-7306-6692"><img src="public/icons/orcid3.svg" height="25" alt="ORCID"></a>
+
+<p align="center">
+  <i>"The secret of getting ahead is getting started."</i>
+  <br>
+  <i> Mark Twain</i>
+</p>
+
+My party parrots:
+<div align="center">
+  
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/spyparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="30" height="30"/>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
+</picture>
