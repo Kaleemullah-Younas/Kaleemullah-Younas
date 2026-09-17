@@ -175,7 +175,7 @@ I've built 40+ projects over the past three years, worked with clients across he
 <a href="https://www.linkedin.com/in/kaleemullah-y-404300261/"><img src="public/icons/linkedin3.svg" height="25" alt="LinkedIn"></a>
 <a href="mailto:kaleemullahyouus123@gmail.com"><img src="public/icons/gmail3.svg" height="25" alt="Email"></a>
 <a href="https://kaleemullahyounas.netlify.app/"><img src="public/icons/portfolio-site3.svg" height="25" alt="Portfolio"></a>
-<a href="https://github.com/sponsors/KaleemullahYounas"><img src="public/icons/github-sponsors3.svg" height="25" alt="GitHub Sponsors"></a>
+<a href="https://www.patreon.com/c/kaleem1"><img src="public/icons/patreon3.svg" height="25" alt="Patreon Sponsors"></a>
 <a href="https://leetcode.com/stranger420/"><img src="public/icons/leetcode3.svg" height="25" alt="LeetCode"></a>
 <a href="https://medium.com/@kaleemullahyounas123"><img src="public/icons/medium3.svg" height="25" alt="Medium"></a>
 <a href="https://devpost.com/kaleem001"><img src="public/icons/devpost3.svg" height="25" alt="Devpost"></a>
