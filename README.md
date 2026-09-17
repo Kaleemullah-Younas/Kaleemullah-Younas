@@ -131,6 +131,7 @@ I've built 40+ projects over the past three years, worked with clients across he
 </tr>
 </table>
 
+<!--
 ### Featured Projects
 
 | Project | What it does | Stack | Links |
@@ -144,6 +145,8 @@ I've built 40+ projects over the past three years, worked with clients across he
 <p align="center">
   <sub><a href="https://github.com/Kaleemullah-Younas?tab=repositories">More on my GitHub</a></sub>
 </p>
+-->
+
 
 ### Achievements
 
