@@ -137,12 +137,9 @@ I've built 40+ projects over the past three years, worked with clients across he
 |---|---|---|---|
 | **TrustECG** | <sub>Attention-based residual CNN that classifies 5 cardiac conditions from 12-lead ECGs (PTB-XL), achieving 91%+ AUROC with lead-level explanations.</sub> | <sub>PyTorch, Attention-CNN, Streamlit</sub> | [GitHub](https://github.com/Kaleemullah-Younas/TrustECG) |
 | **Sehat Guftagu** | <sub>Bilingual Urdu/English clinical interview and triage system with voice/text interviews, SOAP reports, and emergency flagging.</sub> | <sub>Next.js, LangGraph, Groq, Pinecone RAG, ElevenLabs</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Sehat_Guftagu-Interview_version) |
-| **LegalEdge AI** | <sub>Multi-agent system with four specialized agents for contract and compliance review, reducing review time by roughly 70%.</sub> | <sub>Python, Streamlit, Gemini 2.0, ChromaDB</sub> | Confidential |
 | **CHAPAL** | <sub>LLM safety layer combining deterministic prompt-injection/PII protection with semantic hallucination detection and human review.</sub> | <sub>Next.js, TypeScript, Prisma, Groq, Gemini</sub> | [GitHub](https://github.com/Kaleemullah-Younas/CHAPAL) |
 | **Querywise** | <sub>Multi-agent RAG using hybrid BM25 + embedding retrieval with answer verification before returning results.</sub> | <sub>LangChain, LangGraph, ChromaDB, Docling</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Querywise) |
-| **Mail Detective Agent** | <sub>Three-agent system that analyzes student inboxes and ranks scholarships and internships against their academic profile.</sub> | <sub>Next.js, tRPC, MongoDB, Prisma, GLM</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Mail-Detective-Agent) |
-| **Real-Time Twitter Sentiment Analysis** | <sub>Real-time tweet classification pipeline using Kafka and PySpark MLlib with MongoDB storage and a live dashboard.</sub> | <sub>Kafka, PySpark, MongoDB, Django, Docker</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Real-time-twitter-Sentiment-Analysis) |
-| **IDS-WSN** | <sub>ML-based intrusion detection for Blackhole, Grayhole, and Flooding attacks in wireless sensor networks, optimized for edge devices.</sub> | <sub>Scikit-learn, SMOTE</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Intrusion-Detection-System) |
+| **Mail Detective Agent** | <sub>Three-agent system that analyzes student inboxes and ranks scholarships and internships against their academic profile.</sub> | <sub>Next.js, tRPC, MongoDB, Prisma, GLM</sub> | [GitHub](https://github.com/Kaleemullah-Younas/Mail-Detective-Agent)
 
 <p align="center">
   <sub><a href="https://github.com/Kaleemullah-Younas?tab=repositories">More on my GitHub</a></sub>
