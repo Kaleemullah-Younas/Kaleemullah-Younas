@@ -157,7 +157,7 @@ I've built 40+ projects over the past three years, worked with clients across he
 🥇 1st - TechVerse'25, UMT (Generative AI, 20+ teams)<br>
 🥈 2nd - Softec'25 Kaggle, FAST (40+ teams)<br>
 🏅 Top 5 - NaSCon'25, FAST Islamabad (Agentic AI & MCP, 100+ teams)<br>
-🎓 3.87/4.0 GPA · 8× Dean's Award (2022–2026)<br>
+🎓 3.87/4.0 GPA · 8× Dean's Award<br>
 📜 IBM RAG & Agentic AI · AI Engineer for Data Scientists
 </small>
 </div>
