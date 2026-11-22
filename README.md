@@ -6,11 +6,11 @@
 
 <div>
 <p><small>
-I'm an AI engineer and full-stack developer who enjoys building things from scratch and figuring out how to make them actually work in the real world. I studied Artificial Intelligence (Data Science) at UMT, and my work usually sits somewhere between AI and product engineering, whether that's RAG, agents, computer vision, or a full-stack application around a model.
+I love taking AI out of the notebook and making it work in the client's real use-cases. As an AI engineer and full-stack developer with a BS in AI (Data Science major), I build complete, user-ready products, either need help in RAG, agents, ML, CV or full-stack web apps with AI integration. I covers all.
 </small></p>
 
 <p><small>
-I've built 40+ projects over the past three years, worked with clients across healthcare, legal, and education, and somehow ended up with a few research papers along the way. I also really enjoy hackathons, with two 1st-place Devpost wins so far against 1,800+ and 850+ teams.
+I've built 80+ projects over the past three years, worked with clients (100+) across healthcare, legal, real-estate etc and somehow ended up with a few research papers along the way. I also really enjoy hackathons, with two 1st-place Devpost wins so far against 1,800+ and 850+ teams.
 </small></p>
 </div>
 
@@ -18,10 +18,10 @@ I've built 40+ projects over the past three years, worked with clients across he
 
 <div>
 <small>
-- Solving real-world problems for clients across healthcare, fintech, edtech, legal, and other domains, using AI where it actually makes sense. <br>
-- Exploring multimodal models, agentic AI, RAG, and new approaches to building reliable AI systems. <br>
-- Currently building <b>JitterStack</b> and working on AI products, systems, and use cases from idea to production. <br>
-- Still reading <i><b>Attention Is All You Need</b></i>. Nine years (less than a decade) later, apparently attention is still all I need... plus GPUs, datasets, and a questionable amount of coffee. <br>
+- Co-Founder of the software development agency <a href="https://jitterstack.com/">JitterStack</a>, leading technical and financial operations as CTO, CFO, and Senior AI Engineer. <br>
+- Help businesses in healthcare, fintech, edtech, real-estate and legal boost revenue by integrating practical AI across their platforms. <br>
+- Exploring multimodal models, Agentic AI, RAG, and AGI new approaches to building reliable AI systems. <br>
+- Still reading <i><b>Attention Is All You Need</b></i>. Nine years (less than a decade) later, apparently attention is still all I need... plus GPUs, datasets, and a questionable amount of coffee. 😭<br>
 </small>
 </div>
 
@@ -146,6 +146,13 @@ I've built 40+ projects over the past three years, worked with clients across he
   <sub><a href="https://github.com/Kaleemullah-Younas?tab=repositories">More on my GitHub</a></sub>
 </p>
 -->
+### Research Papers
+
+<div>
+<small>
+In verdict, publish soon...
+</small>
+</div>
 
 
 ### Achievements
@@ -164,7 +171,7 @@ I've built 40+ projects over the past three years, worked with clients across he
 
 ---
 
-<small>Latest posts from <a href="https://medium.com/@kaleemullahyounas123">Medium</a>, auto-updated daily via GitHub Actions:</small>
+<small>Latest posts from <a href="https://medium.com/@kaleemullahyounas123">Medium</a>:</small>
 
 ![RSS feed](metrics.plugin.rss.svg)
 
