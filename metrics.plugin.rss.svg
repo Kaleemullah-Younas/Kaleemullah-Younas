@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The Tidal AI Music Ban: What Gets Deleted on December 9, and the False-Positive Math Behind It</div>
+                                <div class="date">25 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">OpenAI Wants LLM Perplexity to Be AI’s Speed Limit.</div>
                                 <div class="date">24 Nov 2026</div>
                             </div>
@@ -49,15 +58,6 @@
                             <div class="infos">
                                 <div class="title">The Optimizely Supply Chain Attack: How One Trusted Script Put Malware on 178 Organisations’…</div>
                                 <div class="date">18 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Geoffrey Hinton’s Warning: Could AI Take Down a Power Grid or a Bank by 2027?</div>
-                                <div class="date">12 Nov 2026</div>
                             </div>
                         </div>
                     </section>
